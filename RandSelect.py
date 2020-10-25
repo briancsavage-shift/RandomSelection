@@ -2,6 +2,8 @@
 # CS 160 - Algorithms
 # Coding Assignment 1
 # Implementation of RandSelect
+# RandSelect -> given a randomly sorted array and rank within 1 and the length of the array 
+#            -> returns the element with corresponding sorted rank in array
 
 import random
 
